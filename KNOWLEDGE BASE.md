@@ -34,8 +34,6 @@ https://github.com/psyleoio/psychedelics/blob/master/BOOKS.md
   https://mind-foundation.org
   
   https://maps.org
-  
-  http://psychodeliki.org
 
 ## YouTube : 
 
