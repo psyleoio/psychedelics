@@ -35,8 +35,7 @@ https://github.com/psyleoio/psychedelics/blob/master/BOOKS.md
   
   https://maps.org
   
-  http://psychodeliki.org
-
+  
 ## YouTube : 
 
 https://www.youtube.com/watch?v=Q9XD8yRPxc8&t=2s
