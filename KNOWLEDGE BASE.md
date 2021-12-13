@@ -2,18 +2,22 @@
 # TREŚCI POLSKIE 
 
 
-
-## Przykładowe organizacje
+## Organizacje
 
    http://psychodeliki.org
    
    https://terapianowoczesna.pl/
    
+## YouTube
+
+https://www.youtube.com/watch?v=gPSo-MVXzEY&list=PLoCk2xiFxrsnjv-DJqv3hoPdNs7GllFCs
    
- ## Książki :
+   
+ ## Książki 
 https://github.com/psyleoio/psychedelics/blob/master/BOOKS.md
 
 
+-----
 
 
 # TREŚCI ZAGRANICZNE
