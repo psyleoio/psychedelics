@@ -27,6 +27,7 @@
 * http://www.politykanarkotykowa.pl/narkotyki-w-leczeniu/zastosowanie-substancji-psychoaktywnych-w-medycynie
 * https://krytykapolityczna.pl/narkopolityka/narkozdrowie/psychodeliki-depresja-maciej-lorenc
 * https://www.stockwatch.pl/wiadomosci/celon-pharma-zakonczyl-analize-wynikow-ii-fazy-badania-leku-na-depresje,akcje,278225?fbclid=IwAR2VZpFFjczmLG-aezX88PA1KeHP301RaH_466an1V81le9DqnXRDtpxNfs
+* XYZ
 
 -----
 
