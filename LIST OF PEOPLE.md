@@ -1,4 +1,4 @@
-## List osób zajmujących się integracją psychologiczną
+## Lista osób zajmujących się integracją psychologiczną
 
-https://www.psychodelicznaintegracja.pl/zespol/
-https://www.facebook.com/psychedelein91
+* https://www.psychodelicznaintegracja.pl/zespol/
+* https://www.facebook.com/psychedelein91
