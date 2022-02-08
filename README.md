@@ -6,7 +6,7 @@ Suggestions and contributions are always welcome!
 
 ## Table Of Contents
 
-- [Pages](#pages) 
+- [Pages](#pages)
 - [Books](#books)
 - [Films](#films)
 - [Serials](#serials)
@@ -23,17 +23,15 @@ Suggestions and contributions are always welcome!
 - [List of people involved in psychedelic integration](#List-of-people-involved-in-psychedelic-integration)
 - [Products](#products)
 
-
-##  Pages
-
-    Poland    
+## Pages 
+    Poland
 - [Psyleo](https://psyleo.com/)
-- [Polskie Towarzystwo Pswychodeliczne](http://psychodeliki.org/)
+- [Polskie Towarzystwo Psychodeliczne](http://psychodeliki.org/)
+- [Narkopolityka](https://krytykapolityczna.pl/narkopolityka/)
+##
+    ~Foreign
+- [Third Wave](https://thethirdwave.co/) 
 
-##
-    Europe
-##
-    USA
 
 ## Books 
 
@@ -58,7 +56,7 @@ Suggestions and contributions are always welcome!
 
 - "Renesans Psychodeliczny" - Ben Sessa
 
-## 
+##
     Foreign
     
 - "Psychology of the Future: Lessons from Modern Consciousness Research (Suny Series in Transpersonal and Humanistic Psychology)" - Stanislav Grof
@@ -81,10 +79,15 @@ Suggestions and contributions are always welcome!
 
 ## Films
     Poland
+- [Psychodeliki - Uniwerytet SWPS](https://www.youtube.com/playlist?list=PLoCk2xiFxrsnjv-DJqv3hoPdNs7GllFCs)
+- [Inne światy - Ayahuasca](https://www.filmweb.pl/film/Inne+%C5%9Bwiaty+%E2%80%93+Ayahuasca-2004-141901)
+- 
 ##
     Foreign
 - [The Way of the Psychonaut](https://vimeo.com/ondemand/thewayofthepsychonaut?fbclid=IwAR277-ursn9PqQsp7a7hC-XONYoGDnNOtlLU8YjUWN16FPEFe3aczygV8lA)
 - [5Meo](https://www.youtube.com/watch?v=SniI1RjTaL8)
+- [TED - The future of psychedelic-assisted psychotherapy](https://www.youtube.com/watch?v=Q9XD8yRPxc8&t=5s)
+- [Psychodeliczne Przygody](https://www.netflix.com/pl/title/80231917)
     
 ## Serials
     Poland
@@ -93,8 +96,12 @@ Suggestions and contributions are always welcome!
     
 ## Podcasts
     Poland
+- [Psyleo](https://www.youtube.com/channel/UCIJG2CQ9NFrWS2BFQN6BB1Q/videos)
+- [Psychodeliki - Spotify](https://open.spotify.com/search/psychodeliki/episodes)
 ##
     Foreign 
+- [Rick Doblin - Podcast](https://www.youtube.com/watch?v=2tUiLxtrLxk&t=11s)
+- [Psychedelics - Spotify](https://open.spotify.com/search/psychedelics/podcasts)
     
 ## Newsletters
     Poland
@@ -132,7 +139,7 @@ Suggestions and contributions are always welcome!
 - [MindMed](https://mindmed.co/)
 - [MAPS](https://maps.org/)
     
-## Startupy
+## Startups
     Poland
 - Psyleo
 ##
