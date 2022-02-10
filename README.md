@@ -47,6 +47,7 @@ Suggestions and contributions are always welcome!
 - [Enveric Biosciences](https://www.enveric.com/) 
 - [PSYCH](https://psych.global/)
 - [Psychedelics Spotlight](https://psychedelicspotlight.com/) 
+- [Microdose](https://microdose.buzz/) 
 
 
 
@@ -161,6 +162,7 @@ Suggestions and contributions are always welcome!
 -  [PSYCH](https://psych.global/the_psychedelics_newsletter/) 
 -  [MAPS](https://maps.org/news/update/) 
 -  [Psychedelics Spotlight](https://psychedelicspotlight.com/psychedelic-news/) 
+-  [Microdose](https://microdose.buzz/)
     
 ## Scientific research
     Poland
