@@ -134,6 +134,13 @@ Suggestions and contributions are always welcome!
 ## Podcasts
     Poland
 - [Psyleo](https://www.youtube.com/channel/UCIJG2CQ9NFrWS2BFQN6BB1Q/videos)
+- [Psychodeliki. Szanse i zagrożenia związane z ich stosowaniem](https://www.youtube.com/watch?v=9urSg-uuULM) 
+- [Wpływ psychodelików na działanie mózgu](https://www.youtube.com/watch?v=gPSo-MVXzEY)
+- [Wpływ różnych psychodelików na ośrodkowy układ nerwowy](https://www.youtube.com/watch?v=-DNsH-s2qAc)
+- [Psychodeliki i ich wykorzystanie w psychoterapii](https://www.youtube.com/watch?v=mTpbqu901tE)
+- [Psychodeliki a mindfulness. Jak wpływają na naszą świadomość?](https://www.youtube.com/watch?v=aliLeU8hNSU) 
+- [Psychodeliki w służbie nauki i medycyny](https://www.youtube.com/watch?v=upu_QkSEpms) 
+- [Metosław](https://www.youtube.com/watch?v=8suP4IYzSGk&list=PLXtWNa6EdI4QidtdqroHB4Xl6ofVIgUaT)
 - [Psychodeliki - Spotify](https://open.spotify.com/search/psychodeliki/episodes)
 ##
     Foreign 
@@ -195,10 +202,30 @@ Suggestions and contributions are always welcome!
     
 ## Courses 
     Poland
+ - [Kursy PTP](http://psychodeliki.org/category/wpisy/)
 ##
     Europe
+-[Mind Foundation - Augmented Psychotherapy Training](https://mind-foundation.org/apt/?fbclid=IwAR2qX7PEPcPW8aMvYvUg-tZKL56nz9ZWM9fnXH6Bs4-Lc4di69sNj3PTdvU)
+-[Synthesis Institute - Psychedelic Practitioner Training](https://www.synthesisinstitute.com/psychedelic-practitioner-training?hsLang=en&fbclid=IwAR02Nlumq5AqsIKg9F6VujwjApH0rcjYYrB4JPBCR5OISMzQVWAd-EqxO4w)
 ##
     USA
+- [California Institute of Integral Studies (CIIS) - Certificate in Psychedelic-Assisted Therapies and Research](https://www.ciis.edu/research-centers/center-for-psychedelic-therapies-and-research/about-the-certificate-in-psychedelic-assisted-therapies-and-research?fbclid=IwAR1GOQBL3m_qSLuhovrwlSX-Oa6ojVss7edFpVEWnblsHn1zO9GkbBCXfvA)
+- [Center for Medicinal Mindfulness/ Psychedelic Sitters School - Psychedelic Guide Training / Psychedelic Therapy Training](https://psychedelicsittersschool.org/program-overview/?fbclid=IwAR2VwZ0kC58rQpVJtnblMmlec0aGUWcpHYJH7si4Y_4gqRnN-Ek3AvFkct4)
+- [Compass Pathways - Therapist training](https://compasspathways.com/our-research/psilocybin-therapy/therapist-training/?fbclid=IwAR2ZNtSjEMh1xjGE2PIARYvkT9qOP9shxOAnVCPKogIe-BcekFSv7va77ww)
+- [Fluence - Certificate in Ketamine-assisted Psychotherapy](https://www.fluencetraining.com/certificates/postgraduate-certificate-in-ketamine-assisted-psychotherapy-application-form/)
+- [Fluence - Certificate in Psilocybin-assisted Therapy](https://www.fluencetraining.com/certificates/postgraduate-certificate-in-psilocybin-assisted-therapy/)
+- [Innate Path - Experiential, Cohort-based Psychedelic Training](https://www.innatepath.org/psychedelic-practice-groups?fbclid=IwAR3zMe823ipv4XsF18eTbeT7VnOjVgYj5r8YOqJymruKOf753WDMynSng58)
+- [Integrative Psychiatry Institute (IPI) - Ketamine Medical Provider Online Training](https://psychiatryinstitute.com/ketamine/?fbclid=IwAR2qX7PEPcPW8aMvYvUg-tZKL56nz9ZWM9fnXH6Bs4-Lc4di69sNj3PTdvU)
+- [Mind Medicine Australia - Certificate in Psychedelic-Assisted Therapies (CPAT)](https://cpat.mindmedicineaustralia.org/?fbclid=IwAR2NE55o-GimkijM1QylckwvlEbD0b1Kpvpfx89VYQPVqwkv4ak7m8u0mEY)
+- [Multidisciplinary Association for Psychedelic Studies (MAPS) - MDMA Therapy Training](https://mapspublicbenefit.com/training)
+- [Naropa University - Psychedelic-Assisted Therapies Certificate](https://www.naropa.edu/academics/extended-campus/psychedelic-assisted-therapies-certificate/?fbclid=IwAR1KvfS1yxJQUY0gWIJU5wKe832C2c9CFfAIzvSSUXEFUfXCqS4ULVypMbM)
+- [Polaris Insight Center - Ketamine-Assisted Psychotherapy](https://www.polarisinsight.com/training-retreats/?fbclid=IwAR3zMe823ipv4XsF18eTbeT7VnOjVgYj5r8YOqJymruKOf753WDMynSng58)
+- [Psychedelic Research and Training Institute (PRATI) - Ketamine Assisted Psychotherapy Training](https://pratigroup.org/kap-training/?fbclid=IwAR24BgB26Jt86ZN2mDBiKKdq5OSQXFNRjAKBd4h8HPUd3GUY6C5BfnDhSH0)
+- [Psychedelic Somatic Institute - Psychedelic Somatic Interactional Psychotherapy](https://www.psychedelicsomatic.org/psychedelic-psychotherapy-training?fbclid=IwAR2oFOOZyjnV8Xa_5MA95Cd1uBCFIZFCpmPDq8jnrNQknq7Wzv0YMiCZkqk)
+- [Psychedelics Today - Navigating Psychedelics For Clinicians and Therapists - Independent Learner](https://www.psychedeliceducationcenter.com/p/navigating-psychedelics-for-clinicians-and-therapists?fbclid=IwAR09sYbJjnMKflfHLJyIYC1-exy2Pp2CSBwc9s64doLNMX8jGY96MadCEfA)
+- [Sage Institute - Ketamine-Assisted Psychotherapy Training Program](https://sageinst.org/kattraining?fbclid=IwAR2hI-AztpUO9fNhSfaVoWs-rhvuXZAygfKgESPYEJ1GS97iJ0H2HBGCjXg)
+- [Sage Institute - Psychedelic-Assisted Psychotherapy Internship Training Program](https://sageinst.org/internshiptraining?fbclid=IwAR3TP119tIc6PwlbTEeRdkH8zLH9QxvLiH_qHFUlZq1FgBbU0zChY-8R9qI)
+
 
 ## Investment funds 
     Europe
@@ -210,6 +237,7 @@ Suggestions and contributions are always welcome!
 ##
     USA
 - [Johns Hopkins Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/)
+- [Field Trip](https://www.fieldtriphealth.com/)
 
     
 ## Researchers/scientists
@@ -249,6 +277,7 @@ Suggestions and contributions are always welcome!
     USA
     
 ## Products
+- [Substance Tests](https://www.protestkit.eu/shop/) 
 - [Psychedelics Dispenser](link)
 - [LSD Tolerance Calculator](https://lsdtolerancecalculator.github.io/)
     
