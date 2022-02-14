@@ -104,6 +104,8 @@ Suggestions and contributions are always welcome!
 - [Podróż](https://www.filmweb.pl/film/Podr%C3%B3%C5%BC-1967-10958) 
 - [Lęk](https://www.filmweb.pl/film/L%C4%99k-2007-298552) 
 - [Requiem dla snu](https://www.filmweb.pl/film/L%C4%99k-2007-298552)
+- [Na drodze ku świadomości](https://www.filmweb.pl/film/Na+drodze+ku+%C5%9Bwiadomo%C5%9Bci-2020-10001513)
+
 
 
 ##
@@ -127,6 +129,10 @@ Suggestions and contributions are always welcome!
 ## Serials
     Poland
 - [Dziewięcioro nieznajomych](https://www.filmweb.pl/serial/Dziewi%C4%99cioro+nieznajomych-2021-858049)
+- [Wyjaśniamy tajemnice umysłu S1E5: Psychodeliki](https://www.netflix.com/watch/81062192?trackId=13752289)
+- [The midnight gospel](https://www.netflix.com/search?q=The%20Midnight%20Gospel&jbv=80987903) 
+
+
 ##
     Foreign 
 - [Nine Perfect Strangers](https://www.primevideo.com/dp/0G7G9AKTJQOY57QDJ70ZQH96X3?ref_=dvm_pds_tit_PL_lb_s_g_mkw_sHwOHz1BitV-dc&mrntrk=pcrid_541864085165_slid__pgrid_126132314053_pgeo_1011435_x__ptid_kwd-1401477128801&gclsrc=aw.ds&gclid=Cj0KCQiAjJOQBhCkARIsAEKMtO360MkhWpPiUEefcWF6mcohfO7PNeDQXotcXrtB47TeqjQKxerT0h4aAlf7EALw_wcB)
@@ -156,6 +162,8 @@ Suggestions and contributions are always welcome!
 ## Newsletters
     Poland
 - [Terapianowoczesna](https://terapianowoczesna.pl/)
+- [5-HT2A](https://5ht2a.pl/psychodeliki-strona-glowna-5ht2a/)
+- [Sirius](https://www.sirius.nl/pl/blog/psychedeliki/)
 ##
     Foreign
 -  [Third Wave](https://thethirdwave.co/) 
@@ -169,18 +177,34 @@ Suggestions and contributions are always welcome!
 - [Analiza wyników II fazy badania leku na depresję](https://www.stockwatch.pl/wiadomosci/celon-pharma-zakonczyl-analize-wynikow-ii-fazy-badania-leku-na-depresje,akcje,278225?fbclid=IwAR2VZpFFjczmLG-aezX88PA1KeHP301RaH_466an1V81le9DqnXRDtpxNfs)
 - [Rewolucjonizacja badań nad zdrowiem Psychicznym](https://digitaluniversity.pl/czy-psychodeliki-zrewolucjonizuja-badania-nad-zdrowiem-psychicznym/)
 - [Legalizacja esketaminy w Polsce](https://psychomedic.pl/terapia-esketamina/)
+- [Motywy zażywania i typologia użytkowników nowych substancji psychoaktywnych ](https://www.sciencedirect.com/science/article/pii/S0867436116300220)
+
 ##
     Europe
+- [Psychedelic Research and the Need for Transparency](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01681/full)
+- [The future of psychedelic science](https://www.imperial.ac.uk/news/220873/the-future-psychedelic-science/)
+
 ##
     USA
 - [Centre for Psychedelic Research](https://www.imperial.ac.uk/psychedelic-research-centre)
+- [Psychedelics Research and Psilocybin Therapy](https://www.hopkinsmedicine.org/psychiatry/research/psychedelics-research.html)
+- [Psychedelic medicine: a re-emerging therapeutic paradigm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592297/)
+
 
 ## Companies
-    Poland
-##
     Europe
+- [GH Research](https://psychedelicinvest.com/companies/gh-research/)
+- [Clarify](https://www.clarifypharma.com/)
+
 ##
     USA
+ - [MindMed](https://mindmed.co/)
+ - [Maya Health](https://www.mayahealth.com/)
+ - [Psylocybin alpha](https://psilocybinalpha.com/)
+ - [Seelos Therapeutic](https://seelostherapeutics.com/)
+ - [Numinus Wellnes](https://numinus.com/)
+ - [Cybin](https://cybin.com/)
+ - [Field Trip Health](https://www.fieldtriphealth.com/)
     
 ## Organizations 
     Poland
@@ -196,19 +220,23 @@ Suggestions and contributions are always welcome!
     
 ## Startups
     Poland
-- Psyleo
+- [Psyleo](https://psyleo.com/)
 ##
     Europe
+- [Beckly Psytech ](https://www.beckleypsytech.com/)
+- [MindShift Compounds](https://www.proactiveinvestors.com/companies/news/941091/mindmed-strikes-partnership-with-swiss-startup-mindshift-compounds-to-develop-and-patent-next-gen-psychedelic-compounds-941091.html)
+- [Eleusis](https://www.eleusisltd.com/)
 ##
     USA
+- [Braxia Scientific](https://braxiascientific.com/)
     
 ## Courses 
     Poland
  - [Kursy PTP](http://psychodeliki.org/category/wpisy/)
 ##
     Europe
--[Mind Foundation - Augmented Psychotherapy Training](https://mind-foundation.org/apt/?fbclid=IwAR2qX7PEPcPW8aMvYvUg-tZKL56nz9ZWM9fnXH6Bs4-Lc4di69sNj3PTdvU)
--[Synthesis Institute - Psychedelic Practitioner Training](https://www.synthesisinstitute.com/psychedelic-practitioner-training?hsLang=en&fbclid=IwAR02Nlumq5AqsIKg9F6VujwjApH0rcjYYrB4JPBCR5OISMzQVWAd-EqxO4w)
+- [Mind Foundation - Augmented Psychotherapy Training](https://mind-foundation.org/apt/?fbclid=IwAR2qX7PEPcPW8aMvYvUg-tZKL56nz9ZWM9fnXH6Bs4-Lc4di69sNj3PTdvU)
+- [Synthesis Institute - Psychedelic Practitioner Training](https://www.synthesisinstitute.com/psychedelic-practitioner-training?hsLang=en&fbclid=IwAR02Nlumq5AqsIKg9F6VujwjApH0rcjYYrB4JPBCR5OISMzQVWAd-EqxO4w)
 ##
     USA
 - [California Institute of Integral Studies (CIIS) - Certificate in Psychedelic-Assisted Therapies and Research](https://www.ciis.edu/research-centers/center-for-psychedelic-therapies-and-research/about-the-certificate-in-psychedelic-assisted-therapies-and-research?fbclid=IwAR1GOQBL3m_qSLuhovrwlSX-Oa6ojVss7edFpVEWnblsHn1zO9GkbBCXfvA)
@@ -233,9 +261,18 @@ Suggestions and contributions are always welcome!
     Europe
 ##
     USA
+- [L.E.K.](https://www.lek.com/insights/ei/investment-surge-psychedelics-treatment-mental-health-conditions)
+- [Noetic Psychedelic Fund](https://noeticfund.com/)
+- [The Conscious Fund](https://coinvestor.co.uk/managers/the-conscious-fund/)
+- [Explorer Equity Group](https://www.explorerequity.com/)
+- [Palo Santo](https://www.palosanto.vc/) 
+- [Able Partners](https://ablepartners.nyc/) 
     
 ## Clinics
     Europe
+- [Essence Institute](https://www.essence.nl/)
+- [Psyon](https://www.psyon.cz/en/) 
+
 ##
     USA
 - [Johns Hopkins Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/)
@@ -244,10 +281,19 @@ Suggestions and contributions are always welcome!
     
 ## Researchers/scientists
     Poland
+- [prof. dr hab. Krystyna Gołembiowska](http://if-pan.krakow.pl/pl/aktywnosc-naukowa/strona-popularnonaukowa/wywiady/wywiad-z-prof-dr-hab-krystyna-golembiowska-na-temat-substancji-psychodelicznych/)
+- [Dr n. biol. Urszula Kozłowska ](https://www.researchgate.net/profile/Urszula-Kozlowska)
+
 ##
     Europe
+- [Professor David Nutt, Dr David Erritzoe, Dr Kirrane Ahmad](https://www.imperial.ac.uk/psychedelic-research-centre/about-us/people/)
+
 ##
     USA
+- [dr Roland Griffiths](https://www.medexpress.pl/pierwsze-takie-centrum-badan-nad-psychodelikami/75707)
+- [dr Charles Nichols](https://www.researchgate.net/profile/Charles-Nichols-3)
+- [Kenneth W. Tupper, Beatriz C. Labate](https://static1.squarespace.com/static/59c1828d914e6bb3b2faca32/t/59e139279f8dce6397828541/1507932456597/Ayahuasca-Psychedelic-Studied-Health-Sciences-CDAR-2014.pdf)
+
     
 
 ## List of people involved in psychedelic integration
@@ -275,13 +321,24 @@ Suggestions and contributions are always welcome!
 
 ##
     Europe
+- [Psychedelic Integration List] https://integration.maps.org/?fwp_load_more=2
 ##
     USA
+- [Jeffrey Morisano, MS, Psychedelic Services Coordinator](https://www.bewellct.com/morisano.php)
+- [Mailae Halstead, MS, Therapist](https://www.bewellct.com/halstead.php)
+- [Jordan Sloshower, MD, Psychiatrist](https://www.bewellct.com/sloshower.php)
+- [Donna Brice, MS, Therapist](https://www.bewellct.com/brice.php)
+- [Julian Finnegan, MS, Therapist](https://www.bewellct.com/finnegan.php)
+- [Geena Lovallo, MFT, Therapist](https://www.bewellct.com/lovallo.php)
+- [Kelly Schmidt, PhD, Psychologist](https://www.bewellct.com/drschmidt.php)
+- [Monnica Williams, PhD, ABPP, Clinical Director](https://www.bewellct.com/drwilliams.php)
+- [Psychedelic Integration List](https://integration.maps.org/?fwp_load_more=2)
     
 ## Products
 - [Substance Tests](https://www.protestkit.eu/shop/) 
-- [Psychedelics Dispenser](link)
+- [Psychedelics Dispenser](https://www.vice.com/en/article/xgxkpn/wearable-psychedelic-drugs-maximum-control-trip)
 - [LSD Tolerance Calculator](https://lsdtolerancecalculator.github.io/)
+- [Psychedelics water](https://psychedelicwater.com/)
     
     
     
