@@ -321,7 +321,7 @@ Suggestions and contributions are always welcome!
 
 ##
     Europe
-- [Psychedelic Integration List] https://integration.maps.org/?fwp_load_more=2
+- [Psychedelic Integration List](https://integration.maps.org/?fwp_load_more=2)
 ##
     USA
 - [Jeffrey Morisano, MS, Psychedelic Services Coordinator](https://www.bewellct.com/morisano.php)
@@ -340,17 +340,3 @@ Suggestions and contributions are always welcome!
 - [LSD Tolerance Calculator](https://lsdtolerancecalculator.github.io/)
 - [Psychedelics water](https://psychedelicwater.com/)
     
-    
-    
-
-
-
-    
-
-
-
-
-
-
-
-
