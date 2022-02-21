@@ -149,6 +149,8 @@ Suggestions and contributions are always welcome!
 - [Psychodeliki w służbie nauki i medycyny](https://www.youtube.com/watch?v=upu_QkSEpms) 
 - [Metosław](https://www.youtube.com/watch?v=8suP4IYzSGk&list=PLXtWNa6EdI4QidtdqroHB4Xl6ofVIgUaT)
 - [Psychodeliki - Spotify](https://open.spotify.com/search/psychodeliki/episodes)
+- [Czy pandemia przyspieszy wprowadzenie psychodelików?](https://wyborcza.pl/podcast/0,172673.html?podcast=93345)
+
 ##
     Foreign 
 - [Rick Doblin - Psychedelics](https://www.youtube.com/watch?v=2tUiLxtrLxk&t=11s)
@@ -164,13 +166,19 @@ Suggestions and contributions are always welcome!
 - [Terapianowoczesna](https://terapianowoczesna.pl/)
 - [5-HT2A](https://5ht2a.pl/psychodeliki-strona-glowna-5ht2a/)
 - [Sirius](https://www.sirius.nl/pl/blog/psychedeliki/)
+- [Alternatywne życie](http://alternatywnezycie.com/newsletter/) 
 ##
     Foreign
 -  [Third Wave](https://thethirdwave.co/) 
 -  [PSYCH](https://psych.global/the_psychedelics_newsletter/) 
 -  [MAPS](https://maps.org/news/update/) 
+-  [Wholecelim](https://www.wholecelium.com/)
 -  [Psychedelics Spotlight](https://psychedelicspotlight.com/psychedelic-news/) 
 -  [Microdose](https://microdose.buzz/)
+-  [Clerkenwell Health](https://www.clerkenwellhealth.com/)
+-  [Small Pharma](https://smallpharma.com/)
+-  [Psyence](https://psyence.com/)
+
     
 ## Scientific research
     Poland
@@ -195,6 +203,10 @@ Suggestions and contributions are always welcome!
     Europe
 - [GH Research](https://psychedelicinvest.com/companies/gh-research/)
 - [Clarify](https://www.clarifypharma.com/)
+- [Clerkenwell Health](https://www.clerkenwellhealth.com/)
+- [Small Pharma](https://smallpharma.com/)
+- [Octarine Bio](http://octarinebio.com/)
+
 
 ##
     USA
@@ -205,6 +217,8 @@ Suggestions and contributions are always welcome!
  - [Numinus Wellnes](https://numinus.com/)
  - [Cybin](https://cybin.com/)
  - [Field Trip Health](https://www.fieldtriphealth.com/)
+ - [Psyence](https://psyence.com/)
+
     
 ## Organizations 
     Poland
@@ -302,22 +316,14 @@ Suggestions and contributions are always welcome!
 - [Stanisław Pawlak](https://www.psychodelicznaintegracja.pl/zespol/)
 - [Paulina Musielak-Jamróz](https://www.psychodelicznaintegracja.pl/zespol/)
 - [Mateusz](https://terapianowoczesna.pl/o-mnie/)
-- [dr Agnieszka Bojanowska](https://www.agnieszkabojanowska.com/)
-- [Anita Szabo](https://anitaszabo.com/)
-- [Bartosz Kleszcz](http://uczesieact.pl/)
-- [Beata Sieradzka](http://psychoterapia-krakow.com/)
-- [Elżbieta Fidler](https://prostapsychoterapia.pl/)
-- [Jakub Greń](https://www.facebook.com/jakubgrenpsychoterapia)
-- [Dr Krzysztof Zwolan](https://i-centre.co.uk/)
 - [Mariusz Bąberski](https://www.integracjapsychologiczna.pl/)
-- [Michał Lasocik](http://lasocik.pl/)
+- [dr Agnieszka Bojanowska](https://www.agnieszkabojanowska.com/)
+- [Bartosz Kleszcz](http://uczesieact.pl/bartosz-kleszcz-psychoterapia-online/)
+- [Mariusz Bąberski](https://www.integracjapsychologiczna.pl/)
+- [Beata Sieradzka](http://psychoterapia-krakow.com/)
+- [Jakub Greń](https://holipsyche.pl/o-nas/jakub-gren/) 
 - [Mira Dobek](https://www.znanylekarz.pl/mira-dobek/psycholog/warszawa)
-- [Monika Jaślarz](https://www.facebook.com/arutamterapia)
 - [Patrycja Radecka](https://www.therapeuticsittingservice.com/)
-- [Paulina Kulikowska](https://paulinakulikowska.com/)
-- [Szymon Pluta](https://www.facebook.com/psychedelein91)
-- [Wiktor Badowski](https://www.facebook.com/badowski.pracownia/)
-- [Wojciech Obracaj](https://www.facebook.com/body.mind.emotions)
 
 ##
     Europe
