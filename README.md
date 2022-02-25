@@ -189,7 +189,6 @@ Suggestions and contributions are always welcome!
 
 ##
     Europe
-- [Psychedelic Research and the Need for Transparency](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01681/full)
 - [The future of psychedelic science](https://www.imperial.ac.uk/news/220873/the-future-psychedelic-science/)
 - [Psychedelic Psychiatry’s Brave New World](https://www.sciencedirect.com/science/article/pii/S0092867420302828#!)
 - [Making psychedelics into medicines: The politics and paradoxes of medicalization](https://akjournals.com/view/journals/2054/4/1/article-p34.xml) 
@@ -201,6 +200,7 @@ Suggestions and contributions are always welcome!
 - [Centre for Psychedelic Research](https://www.imperial.ac.uk/psychedelic-research-centre)
 - [Psychedelics Research and Psilocybin Therapy](https://www.hopkinsmedicine.org/psychiatry/research/psychedelics-research.html)
 - [Psychedelic medicine: a re-emerging therapeutic paradigm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592297/)
+- [Psychedelic Research and the Need for Transparency](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01681/full)
 
 
 ## Companies
@@ -210,6 +210,7 @@ Suggestions and contributions are always welcome!
 - [Clerkenwell Health](https://www.clerkenwellhealth.com/)
 - [Small Pharma](https://smallpharma.com/)
 - [Octarine Bio](http://octarinebio.com/)
+- [Compass Pathway](https://money.usnews.com/investing/stock-market-news/slideshows/psychedelic-stocks-to-watch?slide=3)
 
 
 ##
@@ -311,6 +312,9 @@ Suggestions and contributions are always welcome!
 - [dr Roland Griffiths](https://www.medexpress.pl/pierwsze-takie-centrum-badan-nad-psychodelikami/75707)
 - [dr Charles Nichols](https://www.researchgate.net/profile/Charles-Nichols-3)
 - [Kenneth W. Tupper, Beatriz C. Labate](https://static1.squarespace.com/static/59c1828d914e6bb3b2faca32/t/59e139279f8dce6397828541/1507932456597/Ayahuasca-Psychedelic-Studied-Health-Sciences-CDAR-2014.pdf)
+- [Rotem Petranker] (https://loop.frontiersin.org/people/547526/overview)
+[Thomas Anderson] (https://loop.frontiersin.org/people/136965/overview)
+[Norman Farb] (https://loop.frontiersin.org/people/57857/overview)
 
     
 
