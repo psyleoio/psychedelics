@@ -191,6 +191,10 @@ Suggestions and contributions are always welcome!
     Europe
 - [Psychedelic Research and the Need for Transparency](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01681/full)
 - [The future of psychedelic science](https://www.imperial.ac.uk/news/220873/the-future-psychedelic-science/)
+- [Psychedelic Psychiatry’s Brave New World] (https://www.sciencedirect.com/science/article/pii/S0092867420302828#!)
+- [Making psychedelics into medicines: The politics and paradoxes of medicalization](https://akjournals.com/view/journals/2054/4/1/article-p34.xml)[The future of psychedelic science] 
+- [DMT-assisted therapy: changing the way we think about depressive disorders](https://www.biosciencetoday.co.uk/dmt-assisted-therapy-changing-the-way-we-think-about-depressive-disorders/)
+- [Psychedelic therapy could 'reset' depressed brain](https://www.bbc.com/news/health-56373202)
 
 ##
     USA
