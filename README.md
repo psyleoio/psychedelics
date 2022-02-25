@@ -314,7 +314,7 @@ Suggestions and contributions are always welcome!
 - [Kenneth W. Tupper, Beatriz C. Labate](https://static1.squarespace.com/static/59c1828d914e6bb3b2faca32/t/59e139279f8dce6397828541/1507932456597/Ayahuasca-Psychedelic-Studied-Health-Sciences-CDAR-2014.pdf)
 - [Rotem Petranker](https://loop.frontiersin.org/people/547526/overview)
 - [Thomas Anderson](https://loop.frontiersin.org/people/136965/overview)
-- [Norman Farb] https://loop.frontiersin.org/people/57857/overview)
+- [Norman Farb](https://loop.frontiersin.org/people/57857/overview)
 
     
 
