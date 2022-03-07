@@ -48,6 +48,7 @@ Suggestions and contributions are always welcome!
 - [PSYCH](https://psych.global/)
 - [Psychedelics Spotlight](https://psychedelicspotlight.com/) 
 - [Microdose](https://microdose.buzz/) 
+- [Psychedelic Network ] (https://psychedelicnetwork.org.uk/)
 
 
 
@@ -178,6 +179,7 @@ Suggestions and contributions are always welcome!
 -  [Clerkenwell Health](https://www.clerkenwellhealth.com/)
 -  [Small Pharma](https://smallpharma.com/)
 -  [Psyence](https://psyence.com/)
+-  [Psychedelic Network ](https://psychedelicnetwork.org.uk/)
 
     
 ## Scientific research
@@ -194,6 +196,7 @@ Suggestions and contributions are always welcome!
 - [Making psychedelics into medicines: The politics and paradoxes of medicalization](https://akjournals.com/view/journals/2054/4/1/article-p34.xml) 
 - [DMT-assisted therapy: changing the way we think about depressive disorders](https://www.biosciencetoday.co.uk/dmt-assisted-therapy-changing-the-way-we-think-about-depressive-disorders/)
 - [Psychedelic therapy could 'reset' depressed brain](https://www.bbc.com/news/health-56373202)
+- [Classical psychedelics for the treatment of depression and anxiety: A systematic review](https://www.sciencedirect.com/science/article/abs/pii/S0165032719309127?casa_token=tqa8L4aCk-8AAAAA:2n2ei2dv82wFugHkfreoEw8u5UDK92AhwsjZpnifmzGKIdez5IIFEyrWFIhnUUc3Qoh6uOUNGA#!)
 
 ##
     USA
@@ -201,6 +204,7 @@ Suggestions and contributions are always welcome!
 - [Psychedelics Research and Psilocybin Therapy](https://www.hopkinsmedicine.org/psychiatry/research/psychedelics-research.html)
 - [Psychedelic medicine: a re-emerging therapeutic paradigm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592297/)
 - [Psychedelic Research and the Need for Transparency](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01681/full)
+- [Psychedelics as anti-inflammatory agents](https://www.tandfonline.com/doi/abs/10.1080/09540261.2018.1481827?casa_token=0uhUVTZkD0gAAAAA%3AEbn1UtkGbD-_qRa2nQDHNroBW963gthfaBopBgkjk7V4qWwm2AN3pDBvavzJ4VV2RShDwI9xFNtb&journalCode=iirp20)
 
 
 ## Companies
@@ -248,6 +252,7 @@ Suggestions and contributions are always welcome!
 ##
     USA
 - [Braxia Scientific](https://braxiascientific.com/)
+- [Field Trip Health](https://www.fieldtriphealth.com/)(https://www.vox.com/recode/22716491/psychedelics-ketamine-mental-health-research-fda)
     
 ## Courses 
     Poland
@@ -306,6 +311,7 @@ Suggestions and contributions are always welcome!
 ##
     Europe
 - [Professor David Nutt, Dr David Erritzoe, Dr Kirrane Ahmad](https://www.imperial.ac.uk/psychedelic-research-centre/about-us/people/)
+- [Silvia Muttoni, Maddalena Ardissino, Christopher John](https://www.scopus.com/authid/detail.uri?authorId=57210857560, https://www.scopus.com/authid/detail.uri?authorId=57210860053, https://www.scopus.com/authid/detail.uri?authorId=57200540429)
 
 ##
     USA
