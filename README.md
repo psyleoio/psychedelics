@@ -311,7 +311,7 @@ Suggestions and contributions are always welcome!
 ##
     Europe
 - [Professor David Nutt, Dr David Erritzoe, Dr Kirrane Ahmad](https://www.imperial.ac.uk/psychedelic-research-centre/about-us/people/)
-- [Silvia Muttoni, Maddalena Ardissino, Christopher John](https://www.scopus.com/authid/detail.uri?authorId=57210857560, https://www.scopus.com/authid/detail.uri?authorId=57210860053, https://www.scopus.com/authid/detail.uri?authorId=57200540429)
+- [Silvia Muttoni,Maddalena Ardissino,Christopher John](https://www.scopus.com/authid/detail.uri?authorId=57210857560,https://www.scopus.com/authid/detail.uri?authorId=57210860053,https://www.scopus.com/authid/detail.uri?authorId=57200540429)
 
 ##
     USA
