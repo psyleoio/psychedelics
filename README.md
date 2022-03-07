@@ -48,7 +48,7 @@ Suggestions and contributions are always welcome!
 - [PSYCH](https://psych.global/)
 - [Psychedelics Spotlight](https://psychedelicspotlight.com/) 
 - [Microdose](https://microdose.buzz/) 
-- [Psychedelic Network ] (https://psychedelicnetwork.org.uk/)
+- [Psychedelic Network ](https://psychedelicnetwork.org.uk/)
 
 
 
